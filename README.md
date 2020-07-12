@@ -1,7 +1,7 @@
 # retail-ecommerce_customer-voice-sales-and-behaviour-prediction
 
 Preface:
-This is a project MVP (minimum viable product) for sales and consumer behavior analysis and follow-up. Featuring full automation of customer voice analysis using NLP (Natural Language Processing) and customer segmentation through unsupervised learning. And for this purpose I have used the anonymized data of a real e-commerce company.
+This is a project MVP (minimum viable product) for sales and consumer behavior analysis and follow-up. Featuring full automation of customer voice analysis using NLP (Natural Language Processing) and customer segmentation through unsupervised learning. And for this purpose I have used the anonymized data of a retail e-commerce company similar to Ebay.
 
 Documents:
 There is a PowerPoint that goes together with a 10 minute presentation in the links below. Together with an Entity-Relationship Diagram to explain the database model I used for this project.
