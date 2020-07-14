@@ -19,3 +19,4 @@ Part of the story telling and PowerPoint format are based on the decision to dis
 
 ### **Small detail:**
 The animated gif (file result.gif) included in the presentation is a breakdown of the revenue generated during nearly 2 years of business at below post code level. I needed to convert geolocation data to meters in order to adjust it to a real country map and aggregate the data into the corresponding sub-postcode area using revenue.
+![](result.gif)
