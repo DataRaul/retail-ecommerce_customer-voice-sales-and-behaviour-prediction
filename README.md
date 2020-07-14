@@ -1,5 +1,8 @@
 # retail-ecommerce_customer-voice-sales-and-behaviour-prediction
 
+### **Scope:**
+Contry wide e-commerce company data exploration for fast MVP prototyping with the goal of presenting a business case for the company and posible unfolding scenarios within 1 year horizon.
+
 ### **Preface:**
 This is a project MVP (minimum viable product) for sales and consumer behavior analysis and follow-up. Featuring full automation of customer voice analysis using NLP (Natural Language Processing) and customer segmentation through unsupervised learning. And for this purpose I have used the anonymized data of a retail e-commerce company similar to Ebay.
 
