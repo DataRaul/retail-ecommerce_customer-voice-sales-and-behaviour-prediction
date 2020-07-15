@@ -7,7 +7,7 @@ Contry wide e-commerce company data exploration for fast MVP prototyping with th
 This is a project MVP (minimum viable product) for sales and consumer behavior analysis and follow-up. Featuring full automation of customer voice analysis using NLP (Natural Language Processing) and customer segmentation through unsupervised learning. For this purpose I have used the anonymized data of a retail e-commerce company similar to Ebay.
 
 ### **Documents:**
-There is a PowerPoint that goes together with a 10 minute presentation in the links below. Together with an Entity-Relationship Diagram to explain the database model I used for this project.
+There is a PowerPoint that goes together with a 10 minute presentation in the links below. Together with an Entity-Relationship Diagram to explain the database model I used for this project. The data folder contains all the files (table extracts) to run the code.
 
 ### **Methodology:**
 I have used Python 3.x in a Jupyter Notebook. Presented the MVP to an audience of 50+ people and recorded it on video in the links below. Asisting documents are the powerpoint presentation and the ERD diagram so that the viewer can follow the presentation along.
